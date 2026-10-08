@@ -53,7 +53,12 @@
   <img
     src="https://raw.githubusercontent.com/MattiaMystic/MattiaMystic/main/stats.svg"
     height="150"
-    alt="GitHub statistics"
+    alt="stats graph"
+  />
+  <img
+    src="https://raw.githubusercontent.com/MattiaMystic/MattiaMystic/main/languages.svg"
+    height="150"
+    alt="languages graph"
   />
 </div>
 
