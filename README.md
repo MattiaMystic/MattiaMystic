@@ -51,17 +51,16 @@
 
 <div data-importer="stats" align="center">
   <img
-    src="https://raw.githubusercontent.com/MattiaMystic/MattiaMystic/main/stats.svg"
+    src="./profile/stats.svg"
     height="150"
-    alt="stats graph"
+    alt="GitHub stats"
   />
   <img
-    src="https://raw.githubusercontent.com/MattiaMystic/MattiaMystic/main/languages.svg"
+    src="./profile/top-langs.svg"
     height="150"
-    alt="languages graph"
+    alt="Top languages"
   />
 </div>
-
 ###
 
 <br clear="both">
